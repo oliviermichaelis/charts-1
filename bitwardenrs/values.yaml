@@ -75,7 +75,7 @@ bitwardenrs:
     # Log to file.
     file: ""
     # Log level. Options are "trace", "debug", "info", "warn", "error" or "off". 
-    level: "invalid"
+    level: ""
 
 service:
   type: ClusterIP
